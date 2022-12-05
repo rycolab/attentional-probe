@@ -1,2 +1,2 @@
 # attentional-probe
-Code accompanying paper "The Architectural Bottleneck Principle".
+Code (coming up soon) accompanying paper "The Architectural Bottleneck Principle".
